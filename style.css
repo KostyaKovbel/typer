@@ -1,7 +1,8 @@
 * {
     box-sizing: border-box;
   }
-  
+
+
   body {
       background-color: rgb(245, 245, 245);
     font-size: 20px;
@@ -30,4 +31,11 @@
     margin-bottom: 16px;
     padding: 4px;
     border: solid 1px rgb(199, 85, 85);
+  }
+
+  .count {
+    align-self: center;
+    height: 20px;
+    width: 30px;
+    background-color: red;
   }
