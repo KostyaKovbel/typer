@@ -37,4 +37,11 @@
     height: 20px;
     width: 30px;
     background-color: red;
+    margin-bottom: 20px;
+  }
+  .timer {
+    height: 20px;
+    width: 30px;
+    background-color: green;
+    margin-bottom: 20px;
   }
